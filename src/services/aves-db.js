@@ -96,3 +96,5 @@ const avesArgentinas = [
     colores: ["Negro", "Blanco", "Marrón"],
   },
 ];
+
+export { avesArgentinas };
